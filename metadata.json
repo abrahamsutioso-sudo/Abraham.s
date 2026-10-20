@@ -1,0 +1,6 @@
+{
+  "name": "CatatUang - Pencatat Pengeluaran Harian & Laporan Otomatis",
+  "description": "Aplikasi pencatat pengeluaran dan pemasukan harian dengan laporan keuangan otomatis, visualisasi grafik, anggaran bulanan, dan tips finansial cerdas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
